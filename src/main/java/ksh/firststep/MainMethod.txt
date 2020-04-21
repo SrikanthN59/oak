@@ -1,0 +1,23 @@
+Defining a main method
+
+
+
+public
+--------
+Is an access modifer
+
+static
+--------
+
+
+
+
+void
+-------
+
+main()
+--------
+
+
+
+String arg[]  (or) String... args (or) String[] args

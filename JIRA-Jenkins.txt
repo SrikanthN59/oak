@@ -1,0 +1,23 @@
+
+#JENKINS-01
+- start taking course https://udemy.com/course/jenkins-from-zero-to-hero
+- understand topic  Introduction & Installation
+
+#JENKINS-02
+- understand Getting Started with Jenkins
+
+#JENKINS-03
+- understand  Jenkins & GIT
+
+#JENKINS-04
+- understand Jenkins & DSL.
+
+
+#JENKINS-05
+
+
+#JENKINS-06
+ CI/CD + Jenkins Pipeline+ Docker + Maven
+
+Resources
+-----------
