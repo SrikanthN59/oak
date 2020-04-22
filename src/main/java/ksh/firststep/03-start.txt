@@ -5,8 +5,8 @@ public class Hello{
 	
 	int myFirstNumber = ( 10 + 5 )+( 2 * 10);
 	int mySecondNumber = 12;
-	int myThirdNumber = FirstNumber * 2;
+	int myThirdNumber = myFirstNumber * 2;
 	int myTotal = myFirstNumber + mySecondNumber + myThirdNumber;
-	system.out.println(mytotal);
+	system.out.println(myTotal);
 	}
 }
