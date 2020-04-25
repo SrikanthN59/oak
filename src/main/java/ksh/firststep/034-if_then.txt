@@ -1,0 +1,37 @@
+if-then:
+--------
+
+The IF-THEN statements is the most basic of all the control flow statements. it tells your program to execute a certain section of code inly if a particular test evaluates to true.
+This is known as CONDITIONAL LOGIC.
+
+CONDITIONAL LOGIC uses specific statements in java to allow us to check a condition and execute certain code based on whether that condition(the expression) is TRUE or FALSE.
+
+Example:
+
+//Java Program to demonstrate the use of If else-if ladder.  
+//It is a program of grading system for fail, D grade, C grade, B grade, A grade and A+.  
+public class IfElseIfExample {  
+public static void main(String[] args) {  
+    int marks=65;  
+      
+    if(marks<50){  
+        System.out.println("fail");  
+    }  
+    else if(marks>=50 && marks<60){  
+        System.out.println("D grade");  
+    }  
+    else if(marks>=60 && marks<70){  
+        System.out.println("C grade");  
+    }  
+    else if(marks>=70 && marks<80){  
+        System.out.println("B grade");  
+    }  
+    else if(marks>=80 && marks<90){  
+        System.out.println("A grade");  
+    }else if(marks>=90 && marks<100){  
+        System.out.println("A+ grade");  
+    }else{  
+        System.out.println("Invalid!");  
+    }  
+}  
+}  

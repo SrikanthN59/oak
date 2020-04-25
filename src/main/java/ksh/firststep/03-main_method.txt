@@ -1,0 +1,10 @@
+main method :-
+-----------
+what is a method? it's collection of statements(one or more) that performs an operation. we'll be using a special method called the main method that java looks for when running a program. It's the entry point of any java code.
+    	--> PUBLIC is an access modifier we discussed when defining the class in the last video.
+    	--> STATIC is a java keyword that needs an understanding of other concepts, for now, know that we need to have static for java to find our method to run the code we are going to add.
+    	-->VOID is yet another java keyword used to indicate that the method will not return anything more on that later.
+  The left and right parenthesis in a method declaration are mandatory and can optionally include one or more parameters - which is a way to pass information to a method.
+  
+  System.out.println-- This STATEMENT is a complete command to be executed and can include one or more expressions.
+    	 
