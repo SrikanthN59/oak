@@ -43,15 +43,16 @@ public class andoperat {
 			System.out.println("it is not an alien!");
 			System.out.println("And I am scared of aliens");
 
-int topscore =80;
-if (topscore < 100){
-	System.out.println("you got the high score!");
-}
+			int topscore =80;
+			if (topscore < 100){
+					System.out.println("you got the high score!");
+					
+			}
 
-int secondTopscore = 81;
-if (topscore > secondTopscore && topscore < 100){
-	System.out.println("Greater then second top score and less than 100");	
-}
-}
+			int secondTopscore = 81;
+			if (topscore > secondTopscore && topscore < 100){
+					System.out.println("Greater then second top score and less than 100");	
+				}
+		}
 		
-	}
+}

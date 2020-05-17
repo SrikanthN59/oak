@@ -53,7 +53,7 @@ if (topscore > secondTopscore && topscore < 100){
 	System.out.println("Greater then second top score and less than 100");	
 }
 if ((topscore > 90) || (secondTopScore <= 90){
-	System.out.println("Either or both of the conditions are true")
+	System.out.println("Either or both of the conditions are true");
 }
 int newValue =50;
 if (newValue == 50){

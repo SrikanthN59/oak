@@ -78,4 +78,11 @@ public class Main {
 		System.out.println("Short max value is " + shortMaxValue);
 
 	}
+	
+	/**
+	 * 
+	 */
+	public void numberDataChalenge(){
+		
+	}
 }
